@@ -1,0 +1,755 @@
+.header {
+    padding: 20px 0;
+}
+
+.navigation {}
+
+.navigation ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    float: right;
+}
+
+.navigation ul li {
+    display: inline-block;
+    padding: 0 20px;
+    margin-top: 40px;
+}
+
+.navigation ul li a {
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.logo a {
+    font-size: 23.6px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.login-signup {
+    display: inline-block;
+    list-style: none;
+    margin-top: 30px;
+    float: right;
+}
+
+.login-signup ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+
+.login-signup ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.login-signup ul li a {
+    display: inline-block;
+    list-style: none;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 9px;
+    text-decoration: none;
+}
+
+.banner img {
+    height: 70%;
+    width: 100%;
+}
+
+
+.text {
+    margin-top: -650px;
+}
+
+.text h1 {
+    font-size: 64px;
+    text-transform: uppercase;
+}
+
+.button {
+    background-color: #e6be36;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.social {
+    background-color: black;
+    width: 1920px;
+    margin-left: -385px;
+}
+
+.social p {
+    color: white;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+.welcome {
+    margin-top: 100px;
+    margin-left: 17px;
+}
+
+.welcome h1 {
+    margin-top: -10px;
+    font-size: 64px;
+    text-transform: uppercase;
+}
+
+.welcome h2 {
+    text-transform: uppercase;
+}
+
+.wel_pic {
+    margin-left: 950px;
+    margin-top: -580px;
+}
+
+.readmore {
+    background-color: #e6be36;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 420px;
+    margin-left: -480px;
+}
+
+.our_product {
+    margin-top: 100px;
+}
+
+.our_product h1 {
+    margin-top: -10px;
+    font-size: 52px;
+    text-transform: uppercase;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.card p {}
+
+.card h2 {
+    text-align: center;
+}
+
+.card1 {
+    background-color: whitesmoke;
+}
+
+.card2 {
+    background-color: rgb(196, 190, 190);
+}
+
+.card3 {
+    background-color: whitesmoke;
+}
+
+.star-icon {
+    margin-left: 100px;
+}
+
+.star-icon i {
+    color: #e6be36;
+    margin-left: 10px;
+}
+
+.cancel {
+    text-decoration: line-through;
+    text-align: center;
+}
+
+.price p {
+    font-size: 16px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.tag p {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -38px;
+    margin-left: 177px;
+}
+
+.banner2 img {
+    margin-top: 70px;
+    height: 70%;
+    width: 100%;
+}
+
+.banner-caption {
+    position: absolute;
+    margin-left: 17px;
+    margin-top: -600px;
+    color: white;
+}
+
+.banner-caption h1 {
+    margin-top: -10px;
+    font-size: 164px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-left: -10px;
+}
+
+.banner-caption h4 {
+    text-transform: uppercase;
+    font-family: montserrat;
+    font-size: 36px;
+    letter-spacing: 25px;
+}
+
+.banner-caption h5 {
+    text-transform: uppercase;
+    font-family: montserrat;
+    font-size: 56px;
+    letter-spacing: 2px;
+    margin-top: -93px;
+    margin-left: 400px;
+}
+
+.banner-caption p {
+    font-family: montserrat;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.learnmore {
+    background-color: #e6be36;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 140px;
+    margin-left: -630px;
+}
+
+.our_client {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.our_client h1 {
+    font-size: 52px;
+    letter-spacing: 2px;
+}
+
+.review_card {
+    margin-top: 50px;
+}
+
+.rcard1 {
+    background-color: rgb(247, 251, 252);
+    height: 180px;
+}
+
+.rcard1 p {
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+.rcard1 h4 {
+    text-transform: uppercase;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+.rcard1 h5 {
+    text-transform: uppercase;
+    margin-right: 160px;
+    color: grey;
+    margin-top: -5px;
+}
+
+.user {
+    height: 65px;
+    width: 65px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.searchbar {
+    background-color: #e6be36;
+    width: 1920px;
+    margin-left: -382px;
+    height: 253px;
+    margin-top: 100px;
+}
+
+.searchbar h2 {
+    text-transform: uppercase;
+    font-size: 49px;
+    margin-left: 370px;
+    margin-top: 60px;
+    letter-spacing: 3px;
+}
+
+.searchbar p {
+    font-size: 14px;
+    margin-left: 370px;
+}
+
+.email {
+    background-color: white;
+    width: 542px;
+    height: 59px;
+    margin-top: 120px;
+    float: right;
+    border-radius: 10px;
+}
+
+.email p {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #bbb;
+}
+
+.shop {
+    background-color: #e6be36;
+    width: 156px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 382px;
+    margin-top: -45px;
+}
+
+.shop a {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+.footer {
+    width: 1920px;
+    height: 593px;
+    background-color: #1b1d1c;
+    margin-left: -382px;
+    margin-top: -10px;
+}
+
+.dcard1 hr {
+    width: 125px;
+    height: 2px;
+    margin-left: 0px;
+}
+
+.dcard1 {
+    position: relative;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.dcard1 h4 {
+    color: white;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.dcard1 p {
+    color: white;
+}
+
+.detail_card {
+    position: absolute;
+}
+
+.bar {
+    position: absolute;
+    color: white;
+    height: 1px;
+    width: 1600px;
+    margin-top: 450px;
+    margin-left: 150px;
+}
+
+.mini_foot {
+    margin-left: 150px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+.mini_foot p {
+    color: white;
+}
+
+.icon {
+    height: 59px;
+    width: 59px;
+    background-color: #e6be36;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: -15px;
+}
+
+.payment {
+    position: absolute;
+    margin-left: 150px;
+}
+
+.message form input {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 5px;
+}
+
+.message form textarea {
+    width: 100%;
+    height: 250px;
+}
+
+ul.list_detail {
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+    padding: 0;
+    margin-top: 20px;
+}
+
+ul.list_detail li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.message h2 {
+    color: brown;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.con_detail h2 {
+    color: brown;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+div#map-container-google-1 iframe {
+    width: 100%;
+    height: 267px;
+}
+
+.contact_sec {
+    padding: 70px 0;
+}
+
+.inner-banner img {
+    width: 100%;
+    height: 315px;
+}
+
+.picture5.pic-5 img {
+    border-radius: 50%;
+}
+
+/* product */
+.best_seller {
+    padding: 0 0 100px 0;
+    background-color: #ffffff;
+  }
+  
+  .bestsellimage img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .card_title {
+    font-weight: 800;
+    color: #000000;
+    font-size: 160%;
+    margin-top: 5%;
+    margin-bottom: -5%;
+  }
+  .card_description {
+    font-size: 14px;
+    font-weight: 525;
+    margin-top: 5%;
+    color: #000000;
+  }
+  
+  .best_sellerbox h5 {
+    text-align: center;
+    color: #333333;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .best_sellerbox h4 {
+    text-align: center;
+    color: #333333;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .best_sellerbox h4 del {
+    color: #777777;
+    font-size: 16px;
+  }
+  
+  .best_sellerbox ul li {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .best_sellerbox ul li a i {
+    color: #ffc109;
+    font-size: 11px;
+  }
+  
+  .best_sellerbox ul {
+    padding: 0;
+    text-align: center;
+  }
+  
+  /*.best_seller_rating{
+      line-height:32px;
+        font-size:1.25em;
+  }
+  
+  .best_seller_rating .fa-star{color: yellow;}*/
+  
+  .shop_now a {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    background-color: #e6be36;
+    padding: 7px 21px;
+    margin: 0 auto;
+    display: table;
+    box-shadow: 0 3px 15px 0 rgb(0 0 0 / 25%);
+  }
+  
+  .shopnow_button_border {
+    background-color: #735999;
+  }
+  .main{
+	position: relative;
+}
+.main img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.main h1{
+    position: absolute;
+    color: white;
+    font-family: 'Myraid Pro Regular';
+    font-weight: bold;
+    top: 40%;
+    left: 400px;
+    font-size: 50px;
+    
+    }
+    .card1 img{
+        height: 380px;
+    width: 370px;
+    }
+   @media only screen and (min-width: 375px) and (max-width:812px) and (-webkit-device-pixel-ratio: 3) {
+    .logo a {
+        font-size: 16px;
+        color: black;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+    .navigation{
+        padding: 0;
+        margin-top: -36px;
+        height: 30px;
+        width: 345px;
+    }
+    .navigation ul {
+        display: inline-block;
+        list-style: none;
+        padding: 0;
+        float: unset;
+
+    }
+    .navigation ul li {
+        display: inline-block;
+        padding: 0 0px;
+        margin-right: 10px;
+        
+    }
+    .navigation ul li a {
+        font-size: 10px;
+        color: black;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin: 0px;
+    }
+    .login-signup ul li a {
+        display: inline-block;
+        list-style: none;
+        font-size: 10px;
+        color: black;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-top: 0px;
+        text-decoration: none;
+    }
+    .text {
+        margin-top: -160px;
+    }
+    .text h1 {
+        font-size: 14px;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
+    
+    .text p {
+        font-size: 8px;
+        width: 150px;
+    }
+    .button {
+        background-color: #e6be36;
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 0px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 8px;
+        margin: 0px 0px;
+        cursor: pointer;
+        width: -1px;
+        height: 20px;
+    }
+    .login-signup ul {
+        display: inline-block;
+        list-style: none;
+        padding: 0;
+    }
+    .login-signup ul li {
+        display: inline-block;
+        list-style: none;
+    }
+    .login-signup {
+        display: inline-block;
+        list-style: none;
+        float: unset;
+        margin-top: 40px;
+    }
+    .social p {
+        color: white;
+        margin-left: 20px;
+        padding: 5px;
+        font-size: 4px;
+    }
+    .social {
+        background-color: black;
+        width: 375px;
+        margin-left: 0px;
+    }
+    .welcome {
+        margin-top: 20px;
+        margin-left: 17px;
+    }
+    .welcome h2 {
+        text-transform: uppercase;
+        font-size: 10px;
+    }
+    .welcome h1 {
+        margin-top: -10px;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+    .welcome p{
+        font-size: 8px;
+        width: 150px;
+    }
+    .readmore {
+        background-color: #e6be36;
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 0px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 8px;
+        cursor: pointer;
+        margin-top: 0px;
+        margin-left: 15px;
+        height: 20px;
+    }
+    .wel_pic {
+        margin-left: 10px;
+    }
+    .wel_pic img {
+        width: 165px;
+        margin-left: 150px;
+        margin-top: 345px;
+        height: 190px;
+    }
+    .our_product p{
+        font-size: 8px;
+    width: 150px;
+    margin-left: 17px;
+    }
+    .our_product h1 {
+        margin-top: -10px;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin-left: 17px;
+    }
+    /* .card1 img {
+       height: 250px;
+       margin-left: 69px;
+       width: 250px;
+    } */
+    .card1 img {
+        height: 250px;
+        width: 250px;
+    }
+    .card {
+        margin-top: 5px;
+    }
+
+   }

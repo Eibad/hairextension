@@ -1,0 +1,540 @@
+
+.logo img{
+	width: 100%;
+}
+.logo a{
+font-size: 23.6px;
+color: #000000;
+text-transform: uppercase;
+}
+.navbar{
+	position: relative;
+
+}
+
+
+
+.navbar-default {
+    background-color: unset;
+    border-color: none;
+}
+
+.navbar {
+    position: relative;
+    min-height: 0;
+    margin-bottom: 0;
+    border: unset;
+}
+
+.about_heading h1{
+    text-transform: uppercase;
+    color: #770000;
+    text-decoration: underline;
+}
+
+
+.main{
+	position: relative;
+}
+.main img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.main h1{
+position: absolute;
+color: white;
+font-family: 'Myraid Pro Regular';
+font-weight: bold;
+top: 40%;
+left: 400px;
+font-size: 50px;
+
+}
+
+.back img{
+	width: 47%;
+	padding: 10px;  
+}
+
+.center img{
+	width: 35%;
+	position: absolute;
+	top: 22%;
+	right: 35%;
+	border-radius: 50%; 
+	border: 5px solid white;
+}
+
+.Heading1 h1{
+	color: #735999;
+	text-decoration: underline;
+	margin-top: 6px;
+}
+
+.Heading1 h4{
+	font-style: italic;
+}
+
+.Heading2 p{
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+
+.yellow{
+}
+
+.yellow img{
+position: absolute;
+top: 183%;
+left: 0%;
+width:100%;
+}
+
+.yellow h1{
+position: absolute;
+top: 192%;
+left: 12%;
+font-family: 'Myraid Pro Regular';
+font-size: 40px;
+text-transform: uppercase;
+color: black;
+letter-spacing: 5px;
+}
+.yellow p{
+position: absolute;
+top: 209%;
+left: 12%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: black;	
+}
+
+.last img{
+position: absolute;
+top: 192.5%;
+left: 58%;
+width:470px;
+}
+
+.lastt img{
+position: absolute;
+top: 193.2%;
+left: 79.5%;
+width:130px;
+}
+
+.se h2{
+position: absolute;
+top: 192.5%;
+left: 81.5%;
+font-family: 'Myraid Pro Regular';
+font-size: 17px;
+color: black;
+font-weight: bold;
+}
+
+.se h1{
+position: absolute;
+top: 192.5%;
+left: 62%;
+font-family: 'Myraid Pro Regular';
+font-size: 16px;
+color: gray;
+}
+
+.end img{
+position: absolute;
+top: 218%;
+left: 0%;
+width:100%;
+height: 577px;
+}
+
+.end h1{
+	position: absolute;
+top: 237.5%;
+left: 16%;
+font-family: 'Myraid Pro Regular';
+font-size: 25px;
+color: white;
+}
+
+.end h2{
+position: absolute;
+top: 237.5%;
+left: 37%;
+font-family: 'Myraid Pro Regular';
+font-size: 25px;
+color: white;
+}
+
+.end h3{
+position: absolute;
+top: 237.5%;
+left: 56%;
+font-family: 'Myraid Pro Regular';
+font-size: 25px;
+color: white;
+}
+.end h4{
+position: absolute;
+top: 239%;
+left: 75%;
+font-family: 'Myraid Pro Regular';
+font-size: 25px;
+color: white;
+}
+
+.lo h1{
+position: absolute;
+top: 245%;
+left: 16%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lo h2{
+position: absolute;
+top: 248.5%;
+left: 16%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lo h3{
+position: absolute;
+top: 251.5%;
+left: 16%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+.lo h4{
+position: absolute;
+top: 256%;
+left: 16%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+
+.los h1{
+position: absolute;
+top: 245%;
+left: 37%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.los h2{
+position: absolute;
+top: 248.5%;
+left: 37%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.los h3{
+position: absolute;
+top: 251.5%;
+left: 37%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+.los h4{
+position: absolute;
+top: 256%;
+left: 37%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+
+.lost h1{
+position: absolute;
+top: 245%;
+left: 56%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lost h2{
+position: absolute;
+top: 248.5%;
+left: 56%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lost h3{
+position: absolute;
+top: 251.5%;
+left: 56%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+.lost h4{
+position: absolute;
+top: 256%;
+left: 56%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lostt h1{
+position: absolute;
+top: 245%;
+left: 75%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lostt h2{
+position: absolute;
+top: 248.5%;
+left: 75%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.lostt h3{
+position: absolute;
+top: 251.5%;
+left: 75%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+.lostt h4{
+position: absolute;
+top: 256%;
+left: 75%;
+font-family: 'Myraid Pro Regular';
+font-size: 15px;
+color: white;
+}
+
+.white img{
+position: absolute;
+top: 284.5%;
+left: 16%;
+width: 1111px;
+
+}
+
+.n h1{
+position: absolute;
+top: 289.5%;
+left: 17%;
+font-family: 'Myraid Pro Regular';
+font-size: 17px;
+color: white;
+}
+
+.n img{
+position: absolute;
+top: 289.5%;
+left: 44%;
+width:300px;
+}
+
+.shape img{
+position: absolute;
+top: 288%;
+left: 85.5%;
+width: 50px;
+height:50px;
+}
+
+
+.shapes img{
+position: absolute;
+top: 288%;
+left: 76%;
+width: 50px;
+height:50px;
+}
+
+.shapess img{
+position: absolute;
+top: 288%;
+left: 80.5%;
+width: 50px;
+height:50px;
+}
+
+
+.site img{
+position: absolute;
+top: 290%;
+left: 77%;
+width: 20px;
+height:20px;
+}
+
+.sites img{
+position: absolute;
+top: 290%;
+left: 81.5%;
+width: 20px;
+height:20px;
+}
+
+.sitess img{
+position: absolute;
+top: 290%;
+left: 86.5%;
+width: 20px;
+height:24px;
+}
+
+.footer {
+    width: 1920px;
+    height: 593px;
+    background-color: #1b1d1c;
+    margin-left: -382px;
+    margin-top: -10px;
+}
+
+.dcard1 hr {
+    width: 125px;
+    height: 2px;
+    margin-left: 0px;
+}
+
+.dcard1 {
+    position: relative;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.dcard1 h4 {
+    color: white;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.dcard1 p {
+    color: white;
+}
+
+.detail_card {
+    position: absolute;
+}
+
+.bar {
+    position: absolute;
+    color: white;
+    height: 1px;
+    width: 1600px;
+    margin-top: 450px;
+    margin-left: 150px;
+}
+
+.mini_foot {
+    margin-left: 150px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+.mini_foot p {
+    color: white;
+}
+
+.icon {
+    height: 59px;
+    width: 59px;
+    background-color: #e6be36;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: -15px;
+}
+
+.payment {
+    position: absolute;
+    margin-left: 150px;
+}
+.header {
+    padding: 20px 0;
+}
+
+.navigation {}
+
+.navigation ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    float: right;
+}
+
+.navigation ul li {
+    display: inline-block;
+    padding: 0 20px;
+    margin-top: 40px;
+}
+
+.navigation ul li a {
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.logo a {
+    font-size: 23.6px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.login-signup {
+    display: inline-block;
+    list-style: none;
+    margin-top: 30px;
+    float: right;
+}
+
+.login-signup ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+
+.login-signup ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.login-signup ul li a {
+    display: inline-block;
+    list-style: none;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 9px;
+    text-decoration: none;
+}

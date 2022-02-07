@@ -1,0 +1,380 @@
+
+
+
+
+.Navigation
+{
+
+	margin-top: 20px;
+}
+.info
+{
+
+	background: black;
+}
+
+.Login ul
+{
+    display: inline-flex;
+}
+.Login li 
+{
+    list-style: none;
+    display: inline-flex;
+}
+
+.opera img
+{
+    width: 100%;
+}
+
+.opera button
+{
+
+	background: #E6BE38; 
+}
+
+#carousel-caption {
+    position: absolute;
+    bottom: 119px;
+    left: 240px;
+    top: 143px;
+}
+
+.info p
+{
+	color: white;
+}
+.info1
+{
+
+	padding-top: 100px;
+}
+#first
+{
+	text-align: center;
+}
+.info1 button
+{
+	background-color: #E6BE38;
+}
+.info2 h4
+{
+	padding-top: 30px;
+}
+.info2 img
+{
+ float: right;
+}
+
+.info3 h1 h4 p
+{
+	background-color: : black;
+
+}
+.info3 img
+{
+    width: 100%;
+}
+
+.info3 button
+{
+
+background-color: #E6BE38;	
+}
+.info4
+{
+	padding-top: 100px;
+}
+
+.info4 img
+{
+	float: right;
+
+}
+.info4 h4
+{
+	padding-top: 30px;
+}
+
+.info5 h1 p
+{
+	padding-top:70px ;
+	align-items: center;
+}
+
+.info6
+{
+	padding-top:50px; 
+	padding-bottom: 100px;
+}
+
+
+
+.info11
+{
+	background: #1B1D1C;
+}
+
+
+.Heading h1
+{
+
+color: red;
+ 
+}
+
+.Heading form input
+{
+margin: 0;
+    padding: 16px;
+    padding-top: 35px;
+    margin-top: 28px;
+    width: 100%;
+
+}
+
+
+.Heading form button {
+    
+    margin-top: 23px;
+    width: 100%;
+    height: 43px;
+    background: #000080;
+    color: white;
+}
+
+.information ul li
+{
+	display: block;
+	margin-bottom: 27px; 
+}
+.information ul {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.cos img{
+
+
+    width: 100%;
+    height: 435px;
+    object-fit: cover;
+}
+
+#carousel-caption4 {
+    position: absolute;
+    bottom: 119px;
+    left: 220px;
+    top: 207px;
+
+    padding-top: 102px;
+}
+.cos h1
+{
+
+    color: black;
+}
+
+
+
+.opera2 button
+{
+
+	background: #E6BE38; 
+}
+
+.opera2 img {
+    width: 100%;
+    height: 300px
+;
+    object-fit: cover;
+}
+
+
+#carousel-caption2 {
+    position: absolute;
+    bottom: 119px;
+    left: 435px;
+    top: 45px;
+    color: white;
+    padding-top: 102px;
+}
+
+.footer1
+{
+	background: #1B1D1C;
+}
+
+.material {
+    padding: 82px;
+}
+
+textarea.form-control {
+    height: 263px;
+}
+
+.aboutCaro img
+{
+    width: 100%;
+}
+
+#carousel-caption3 {
+    position: absolute;
+    bottom: 119px;
+    left: 900px;
+    top: 150px;
+    color: white;
+    padding-top: 102px;
+}
+
+
+.collage
+{
+    padding: 40px;
+}
+.aboutus h3
+{
+
+    color: red;
+}
+
+.aboutus h4
+{
+
+    color: blue;
+}
+
+
+.Product
+{
+
+    padding: 200px;
+}
+
+.details img {
+    width: 100%;
+    height: 468px;
+    object-fit:cover;
+    padding:35px;
+}
+.aboutus1 h3
+{
+
+    color: black;
+}
+
+.aboutus1 h4
+{
+
+    color:  #FFD700;
+}
+
+    .number span {cursor:pointer; }
+        .number{
+            margin:0;
+        }
+        .minus, .plus{
+            width:20px;
+            height:40px;
+            background:#f2f2f2;
+            border-radius:4px;
+            padding:8px 5px 8px 5px;
+            border:1px solid #ddd;
+      display: inline-block;
+      vertical-align: middle;
+      text-align: center;
+        }
+
+
+        .number input{
+            height:34px;
+      width: 100px;
+      text-align: center;
+      font-size: 26px;
+            border:1px solid #ddd;
+            border-radius:4px;
+      display: inline-block;
+      vertical-align: middle;
+  }
+            
+.number button {
+    left: 47px;
+    height: 43px;
+    width: 217px;
+    float: right;
+}
+
+
+.done button
+{
+
+
+    padding: 7px;
+    margin: 24px;
+    float: right;
+    width: 141px;
+    background: red;
+    color: white;
+
+}
+
+.main-conta{
+    background-color: #dfdfdf;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.shipping{
+    padding: 10px 24px;
+    background-color: #ff3424;
+    color: white;
+}
+.Summary
+{
+    padding: 10px 24px;
+    background-color: grey;
+    color: white;
+}
+
+.form-sec{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-conta1{
+    background-color: #D3D3D3;
+    margin-top: 40px;
+    padding: 25px;
+}
+.radio
+{
+    margin: 2px;
+    padding: 10px;
+    top: 9px;
+    background-color: gainsboro;
+    height: 66px;
+
+}
+
+
+.bt1 button
+{
+    float: right;
+    margin: 0;
+    width: 128px;
+    height: 40px;
+    background: #ff3424;
+    color: white;
+    margin-top: 27px;
+}
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) 
+    {
+
+     }

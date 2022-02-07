@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Contact US</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  
+    <script src="js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      
+      $(document).ready(function() {
+      $('.minus').click(function () {
+        var $input = $(this).parent().find('input');
+        var count = parseInt($input.val()) - 1;
+        count = count < 1 ? 1 : count;
+        $input.val(count);
+        $input.change();
+        return false;
+      });
+      $('.plus').click(function () {
+        var $input = $(this).parent().find('input');
+        $input.val(parseInt($input.val()) + 1);
+        $input.change();
+        return false;
+      });
+    });
+
+
+    </script>
+  
+  <!-- <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script> -->
+  </head>
+  <body>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2">
+          <h5>HAIR TO <br>WAIST XTENSTIONS</h5>
+        </div>
+        <div class="col-lg-5">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"></a>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+
+             <li><a href="index.php">Home</a></li>
+             <li><a href="about.html">About us</a></li>
+             <li><a href="products.php">Products</a></li>
+             <li><a href="Contact.html">Contact us</a></li>
+           </ul>
+
+         </div><!-- /.navbar-collapse -->
+       </div>
+       <div class="col-lg-5" style=" text-align: -webkit-right; margin-top: 10px;">
+        <img src="images/cart.png">
+        <a href="#">Login/</a>
+        <a href="">SignUp</a> 
+      </div>
+    </div>
+
+    
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+
+
+
+<section>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<table class="table">
+ <thead class="thead-dark">
+    <tr>
+      <th scope="col">Article</th>
+      <th scope="col">Quantity</th>
+      <th scope="col">Size</th>
+      <th scope="col">Material</th>
+      <th scope="col">Price</th>
+      <th scope="col">Total</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><img src="images/cart1.jpg"> <h3>Heading Goes Here</h3></th>
+      <td>
+        
+        <div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div>
+
+      </td>
+      <td><div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div></td>
+      
+
+      <td>Gems</td>
+      <td>13.99 $</td>
+      <td>13.99 $</td>
+    </tr>
+   <tr>
+      <th scope="row"><img src="images/cart1.jpg"> <h3>Heading Goes Here</h3></th>
+      <td>
+        
+        <div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div>
+
+      </td>
+      <td><div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div></td>
+      
+
+      <td>Gems</td>
+      <td>13.99 $</td>
+      <td>13.99 $</td>
+    </tr>
+
+
+
+
+
+    <tr>
+      <th scope="row"><img src="images/cart1.jpg"> <h3>Heading Goes Here</h3></th>
+      <td>
+        
+        <div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div>
+
+      </td>
+      <td><div class="number">
+  <span class="minus">-</span>
+  <input type="text" value="1"/>
+  <span class="plus">+</span>
+</div></td>
+      
+
+      <td>Gems</td>
+      <td>13.99 $</td>
+      <td>13.99 $</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="container">
+  <div class="row">
+
+    <div class="col-lg-6">
+      
+    </div>
+
+    <div class="col-lg-6">
+
+      <table class="table table-borderless">
+  <thead>
+    <tr>
+
+      <th scope="col">Delivery Cost</th>
+      <th scope="col">The Applies to standard delivery to Europe</th>
+      <th scope="col">14.99 $</th>
+    </tr>
+  </thead>
+  <tbody>
+   
+      <th scope="row"><h1>Total</h1><h6>*Avt</h6> </th>
+      <td></td>
+      <td></td>
+      <td><h3>20.00$</h3></td>
+    </tr>
+   </tbody>
+</table>
+
+<div class="done">
+<a href="BILL.html"><button>Done</button></a>
+</div>
+
+</div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <footer>
+
+
+                  <div class="info11">
+
+
+          <div class="footer">
+            <div class="container">
+              <div class="row" style="padding-top:50px;">
+                <div class="col-lg-3" align="center" style="color:white;">
+                  <h5>Company</h5>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                </div>
+                <div class="col-lg-3" align="center" style="color:white;">
+                  <h5>My Account</h5>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                </div>
+                <div class="col-lg-3" align="center" style="color:white;">
+                  <h5>Help Center</h5>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  <p>Lorem ispum dolor</p>
+                  
+
+                </div>
+                
+                <div class="col-lg-3" align="center" style="color:white;">
+                  <h5>NEWSLETTER</h5>
+                  <form action="#">
+                <div class="form-group">
+                  <input type="email" style="width: 200%;" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email...">
+                  <button style="background-color:red; margin-top: 20px; width: 100px;">Shop Now</button>
+                </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+         
+           <div class="info7">
+
+          <div class="lowerfooter">
+            <hr> 
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-4" style="padding-top:20px; color: white;">
+                  <p>Copyright 2021 All Rights Reserved</p>
+                </div>
+                <div class="col-lg-4" align="center" style="padding-top:15px; display: inline-flex; color: white">
+                  <h4 style="padding-right: 10px;"><i class="fa fa-cc-visa"></i></h4>
+                  <h4 style="padding-right: 10px;"><i class="fa fa-cc-jcb" aria-hidden="true"></i></h4>
+                  <h4 style="padding-right: 10px;"><i class="fa fa-cc-stripe" aria-hidden="true"></i></h4>
+                  <h4 style="padding-right: 10px;"><i class="fa fa-cc-paypal" aria-hidden="true"></i></h4>
+                  <h4 style="padding-right: 10px;"><i class="fa fa-cc-diners-club" aria-hidden="true"></i></h4>
+                </div>
+                <div class="col-lg-4" align="center" style="padding-top: 15px; color: white;">
+                  <img src="./images/l1.png" height="50%">
+                  <img src="./images/t1.png" height="50%">
+                  <img src="./images/f1.png" height="50%">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+      </div>
+          
+        </footer>
+
+
+
+
+
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  
+    <script src="js/bootstrap.min.js"></script>
+
+
+
+
+  </body>
+</html>

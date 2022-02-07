@@ -1,0 +1,250 @@
+
+  .fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 35px;
+    margin-top: 4%;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55acee;
+    color: white;
+  }
+  .fa-google {
+    background-color: red;
+    color: white;
+  }
+  .fa-linkedin {
+    background-color: #3b5998;
+    color: white;
+  }
+  .rowSet {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .top_header {
+    background-color: #735999;
+    padding: 15px 0;
+    text-align: center;
+  }
+  .proImg {
+    margin-top: 5%;
+    margin-bottom: 10%;
+  }
+  
+  .ava {
+    margin-top: 15%;
+  }
+  .stocking {
+    margin-top: 15%;
+    margin-left: -90px;
+  }
+  
+  span {
+    cursor: pointer;
+  }
+  .number {
+    margin-top: 8%;
+    margin-left: -15px;
+  }
+  .minus,
+  .plus {
+    width: 20px;
+    height: 3%;
+    background: #f2f2f2;
+    border-radius: 4px;
+    padding: 6px 5px 6px 5px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .buyButton {
+    width: 140px;
+    margin-top: 9%;
+    background-color: #e6be36;
+    color: #ffffff;
+    padding: 4px 8px 4px 8px;
+    margin-left: -30px;
+    border-radius: 10px;
+    border-color: #e6be36;
+  }
+  input {
+    height: 34px;
+    width: 70px;
+    text-align: center;
+    font-size: 26px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .top_header_text p {
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    margin-bottom: 0px;
+    font-size: 100%;
+  }
+  
+.header {
+    padding: 20px 0;
+  }
+  
+  .navigation {}
+  
+  .navigation ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    float: right;
+  }
+  
+  .navigation ul li {
+    display: inline-block;
+    padding: 0 20px;
+    margin-top: 40px;
+  }
+  
+  .navigation ul li a {
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  .logo {
+    margin-top: 20px;
+  }
+  
+  .logo a {
+    font-size: 23.6px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  .login-signup {
+    display: inline-block;
+    list-style: none;
+    margin-top: 30px;
+    float: right;
+  }
+  
+  .login-signup ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .login-signup ul li {
+    display: inline-block;
+    list-style: none;
+  }
+  
+  .login-signup ul li a {
+    display: inline-block;
+    list-style: none;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 9px;
+    text-decoration: none;
+  }.footer {
+    width: 1920px;
+    height: 593px;
+    background-color: #1b1d1c;
+    margin-left: -382px;
+    margin-top: 10px;
+  }
+  
+  .dcard1 hr {
+    width: 125px;
+    height: 2px;
+    margin-left: 0px;
+  }
+  
+  .dcard1 {
+    position: relative;
+    margin-left: 250px;
+    margin-top: 150px;
+  }
+  
+  .dcard1 h4 {
+    color: white;
+    margin-bottom: 30px;
+    font-size: 22px;
+  }
+  
+  .dcard1 p {
+    color: white;
+  }
+  
+  .detail_card {
+    position: absolute;
+  }
+  
+  .bar {
+    position: absolute;
+    color: white;
+    height: 1px;
+    width: 1600px;
+    margin-top: 450px;
+    margin-left: 150px;
+  }
+  
+  .mini_foot {
+    margin-left: 150px;
+    margin-top: 500px;
+    position: absolute;
+  }
+  
+  .mini_foot p {
+    color: white;
+  }
+  
+  .icon {
+    height: 59px;
+    width: 59px;
+    background-color: #e6be36;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: -15px;
+  }
+  
+.payment {
+    position: absolute;
+    margin-left: 150px;
+  }
+.rev {
+    margin-bottom: 0px;
+    margin-top: 22px;
+}
+.des{
+    margin-top: 0px;
+}
+.det_para {
+    margin-top: 10px;
+}
+.review {
+    margin-top: 10px;
+}
+#description.tab-pane  p{
+    margin-top: 10px;
+}
+#review.tab-pane p{
+    margin-top: -70px;
+}
+
